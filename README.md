@@ -1,5 +1,5 @@
 Soil Sense AI
-Overview
+Overview:
 
 Soil Sense AI is a machine learning-based application designed to analyze soil characteristics and provide intelligent crop recommendations. The system helps farmers and agricultural enthusiasts make data-driven decisions to improve productivity and optimize crop selection.
 
